@@ -1,0 +1,664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"forecast_",
+				"forecast_now\tstatement"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"an",
+				"an_hour_from_now\tstatement"
+			],
+			[
+				"sec",
+				"secs_since_hour_before\tstatement"
+			],
+			[
+				"hourl",
+				"hourly_forecast\tstatement"
+			],
+			[
+				"ge",
+				"get_weather_hourly"
+			],
+			[
+				"hourly",
+				"hourly_data\tstatement"
+			],
+			[
+				"hour",
+				"hourly_data\tstatement"
+			],
+			[
+				"ap",
+				"apiKey\tstatement"
+			],
+			[
+				"ad",
+				"admin\tmodule"
+			],
+			[
+				"uni",
+				"unique"
+			],
+			[
+				"api",
+				"api_url\tstatement"
+			],
+			[
+				"_",
+				"__init__\tinit"
+			],
+			[
+				"campaign",
+				"campaign_id"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"Post",
+				"PostAdmin"
+			],
+			[
+				"publis",
+				"published_date"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"na",
+				"nav\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"get",
+				"get_reviews"
+			],
+			[
+				"Craigs",
+				"CraigslistItem"
+			],
+			[
+				"twitter_",
+				"twitter_tweeting_start"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 229.0,
+		"last_filter": "convert",
+		"selected_items":
+		[
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 477.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"python",
+			"cd",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mobpro/Desktop/info.py",
+		"/Users/mobpro/Desktop/info from victor",
+		"/Users/mobpro/central-sepideh/central/apps/weather/dstest.py",
+		"/Users/mobpro/central-sepideh/static/vendors/datatables/datatables.min.js",
+		"/Users/mobpro/central-sepideh/central/apps/weather/test.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/migrations/0043_auto_20170105_1146.py",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/migrations/0208_auto_20170105_1149.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/migrations/0040_auto_20170105_1006.py",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/migrations/0201_auto_20161230_1144.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/migrations/0040_auto_20170105_0954.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/migrations/0040_auto_20161230_1326.py",
+		"/Users/mobpro/Desktop/sample.cpp",
+		"/Users/mobpro/central-sepideh/central/apps/weather/tests.py",
+		"/Users/mobpro/central-sepideh/central/apps/weather/views.py",
+		"/Users/mobpro/central-sepideh/central/apps/weather/models.py",
+		"/Users/mobpro/central-sepideh/central/apps/weather/admin.py",
+		"/Users/mobpro/central-sepideh/static/vendors/AdminLTE/js/plugins/flot/jquery.flot.fillbetween.min.js",
+		"/Users/mobpro/central-sepideh/central/apps/handlers/admin.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/admin.py",
+		"/Users/mobpro/central-sepideh/central/apps/handlers/models.py",
+		"/Users/mobpro/central-sepideh/central/core/admin.py",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/admin.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/models.py",
+		"/Users/mobpro/central-sepideh/central/settings/settings.py",
+		"/Users/mobpro/central-sepideh/central/apps/placements/admin.py",
+		"/Users/mobpro/central-sepideh/central/apps/audienceserver/admin.py",
+		"/Users/mobpro/central-sepideh/central/utils/django_admin.py",
+		"/Users/mobpro/central-sepideh/central/apps/daemons/management/commands/reset_daily_counters_daemon.py",
+		"/Users/mobpro/central-sepideh/central/apps/google_api/api.py",
+		"/Users/mobpro/central-sepideh/central/apps/audienceserver/api.py",
+		"/Users/mobpro/central-sepideh/central/apps/daemons/management/commands/collector_daemon.py",
+		"/Users/mobpro/central-sepideh/central/apps/daemons/management/commands/custom_audiences_builder_deamon.py",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/views.py",
+		"/Users/mobpro/central-sepideh/central/apps/dashboard/templates/dashboard/bids.html",
+		"/Users/mobpro/central-sepideh/central/urls.py",
+		"/Users/mobpro/central-sepideh/central/apps/dashboard/admin.py",
+		"/Users/mobpro/central-sepideh/central/core/bidder_redis_sync.py",
+		"/Users/mobpro/central-nikos/central/apps/location_groups/admin.py",
+		"/Users/mobpro/central-nikos/central/apps/campaign/templates/formtools/wizard/wizard_form_part.html",
+		"/Users/mobpro/central-sepideh/central/apps/daemons/management/commands/audiences_updater_daemon.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/migrations/0039_auto_20161027_1702.py",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/migrations/0198_auto_20161115_0951.py",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/migrations/0039_auto_20141219_1353.py",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/models.py",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/forms.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/forms.py",
+		"/Users/mobpro/central-sepideh/central/apps/audienceserver/forms.py",
+		"/Users/mobpro/central-sepideh/central/apps/dashboard/forms.py",
+		"/Users/mobpro/central-sepideh/central/apps/directpub/migrations/0004_remove_directpubtag_campaign.py",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/migrations/0056_backend_reinject_placement_name_enabled.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/migrations/0003_globalpermission.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/mixins.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/migrations/0039_auto_20161027_1355.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/migrations/0004_auto_20151210_1518.py",
+		"/Users/mobpro/central-sepideh/central/core/stronghold/middleware.py",
+		"/Users/mobpro/central-sepideh/central/apps/api/permissions.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/decorators.py",
+		"/Users/mobpro/central-sepideh/central/apps/dashboard/views.py",
+		"/Users/mobpro/central-sepideh/central/settings/base.py",
+		"/Users/mobpro/central-sepideh/central/apps/permissions/utils.py",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/templates/admin/campaign/view_latest_acceptedbids.html",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/templates/admin/campaign/view_latest_nobids.html",
+		"/Users/mobpro/Desktop/untitled.tex",
+		"/Users/mobpro/Desktop/test.tex",
+		"/Users/mobpro/Desktop/La.tex",
+		"/Users/mobpro/Library/Application Support/Sublime Text 3/Packages/User/LaTeX.sublime-build",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/templates/admin/campaign/view_latest_nobids_reasons.html",
+		"/Users/mobpro/central-sepideh/central/apps/dashboard/templates/dashboard/base_admin.html",
+		"/Users/mobpro/central-sepideh/.jscsrc",
+		"/Users/mobpro/central-sepideh/central/apps/campaign/templatetags/acceptedbids.py",
+		"/Users/mobpro/vls.html",
+		"/Users/mobpro/Desktop/vln.html",
+		"/Users/mobpro/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/mobpro/Library/Application Support/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/Users/mobpro/Library/Application Support/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/Users/mobpro/Library/Application Support/Sublime Text 3/Packages/User/Origami.sublime-settings",
+		"/Users/mobpro/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/mobpro/Desktop/trydjango/src/posts/templates/post_detail.html",
+		"/Users/mobpro/Desktop/trydjango/src/manage.py",
+		"/Users/mobpro/Desktop/trydjango/src/trydjango/wsgi.py",
+		"/Users/mobpro/Desktop/trydjango/src/templates/index.html",
+		"/Users/mobpro/Desktop/trydjango/src/trydjango/settings.py",
+		"/Users/mobpro/Desktop/trydjango/src/posts/views.py",
+		"/Users/mobpro/Desktop/trydjango/src/posts/urls.py",
+		"/Users/mobpro/Desktop/trydjango/src/crud.md",
+		"/Users/mobpro/Desktop/trydjango/src/trydjango/urls.py",
+		"/Users/mobpro/Desktop/trydjango/src/posts/apps.py",
+		"/Users/mobpro/Desktop/trydjango/src/posts/admin.py",
+		"/Users/mobpro/Desktop/trydjango/src/posts/models.py",
+		"/Users/mobpro/Desktop/django-academicstoday/README.md",
+		"/Users/mobpro/Desktop/WatchUsBuild-TeamDirectoryAppWithDjango/Directory/www/static/main.css",
+		"/Users/mobpro/Desktop/WatchUsBuild-TeamDirectoryAppWithDjango/Directory/www/static/normalize.css",
+		"/Users/mobpro/Desktop/Treasuregram/main_app/templates/index.html",
+		"/Users/mobpro/Desktop/free will",
+		"/Users/mobpro/Desktop/djangogirls/blog/urls.py",
+		"/Users/mobpro/Desktop/djangogirls/blog/views.py",
+		"/Users/mobpro/Desktop/djangogirls/mysite/urls.py",
+		"/Users/mobpro/Desktop/djangogirls/.gitignore",
+		"/Users/mobpro/Desktop/djangogirls/blog/admin.py",
+		"/Users/mobpro/Desktop/djangogirls/blog/models.py",
+		"/Users/mobpro/Desktop/djangogirls/mysite/settings.py",
+		"/Users/mobpro/Desktop/Treasuregram/main_app/models.py",
+		"/Users/mobpro/Desktop/Treasuregram/main_app/static/style.css",
+		"/Users/mobpro/Desktop/Treasuregram/main_app/static/bootstrap.min.css",
+		"/Users/mobpro/Desktop/bstraptest.html",
+		"/Users/mobpro/code/django/tango_with_django_project/rango/views.py",
+		"/Users/mobpro/Desktop/wine_test.csv",
+		"/Users/mobpro/Desktop/wine.csv",
+		"/Users/mobpro/Desktop/google-python-exercises/hello.py",
+		"/Users/mobpro/Desktop/Craigslist+project.py",
+		"/Users/mobpro/Downloads/Craigslist+project.py",
+		"/Users/mobpro/Desktop/craig/craigslist/craigslist/spiders/craigfile.csv",
+		"/Users/mobpro/Desktop/craig/craigslist/craigslist/spiders/craigtest.py",
+		"/Users/mobpro/Desktop/spel2/sketch.properties",
+		"/Users/mobpro/Desktop/craigfile.csv",
+		"/Users/mobpro/Desktop/markov_chain/run.py",
+		"/Users/mobpro/Desktop/markov_chain/markov_python/cc_markov.py",
+		"/Users/mobpro/Desktop/markov_chain/markov_python/README.md",
+		"/Users/mobpro/Desktop/markov_chain/fetch_data.py",
+		"/Users/mobpro/code/tutorial/oefenroles",
+		"/Users/mobpro/code/python-project/final_project/scrap_data.py",
+		"/Users/mobpro/Desktop/markov_chain/markov_python-master/README.md",
+		"/Users/mobpro/Desktop/imdb/imdb-news-raw.py",
+		"/Users/mobpro/Desktop/imdb-crawl.py/imdb-news-raw.py",
+		"/Users/mobpro/Desktop/imdb-news-raw.py/imdb-news-raw.py",
+		"/Users/mobpro/Desktop/markov_chain/markov_python-master/cc_markov.py",
+		"/Users/mobpro/Desktop/craig/craigslist/craigslist/items.py",
+		"/Users/mobpro/Desktop/craig/craigsCrawl.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/mobpro/Desktop/trydjango/src/posts/templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fieldse",
+			"countries",
+			"forecast['hourly']['data']",
+			"tactic",
+			"tacticadmin",
+			"tactic",
+			"print",
+			"concurrentmodeladmin",
+			"googleVendor",
+			"NoAddOrDeleteMixIn",
+			"NoDeleteMixIn",
+			"links_dropdown",
+			"get_links",
+			"bannerhourstats_changelist",
+			"get_links",
+			"ctx",
+			"placementcampaignstats",
+			"placements",
+			"campaign_summary",
+			"tactic_id",
+			"latest_nobids_reasons",
+			"reverse",
+			"campaign_summary",
+			"url",
+			"distinct()",
+			"distinct",
+			"LocationGroup",
+			"LocationGroep",
+			"location_groups_locationgroup",
+			"foreignkey",
+			"url",
+			"sepideh",
+			"latest_nobids_reasons",
+			"get_links",
+			"get_url",
+			"audience_size_calculator",
+			"geo_range_confirm",
+			"url",
+			"history",
+			"ipdb",
+			"agency",
+			"get_form",
+			"model",
+			"agency",
+			"agenc",
+			"project_id",
+			"agency",
+			"_to_field",
+			"agency",
+			"sepideh",
+			"get_by_natural_key",
+			"campaign_view_latest_nobids",
+			"pk=",
+			"params",
+			"def execute(self, sql, params=None):",
+			"pk=",
+			"pk=settings",
+			"execute",
+			"params ",
+			"sql",
+			"campaign_view_latest_nobids",
+			"campaign_view_latest_acceptedbids",
+			"campaign_view_latest_nobids",
+			"foreign",
+			"basecampaigntacticadmin",
+			"concurrentmodeladmin",
+			"codename",
+			"codename_key",
+			"auth_permission_content_type_id_codename_key",
+			"campaign_view_latest_acceptedbids",
+			"view_latest_acceptedbids",
+			"view_latest_nobids",
+			"view_latest_acceptedbids",
+			"permi",
+			"campaign_view_latest_acceptedbids",
+			"view_latest_accepted",
+			"view_latest_nobids",
+			"view_latest_acceptedbids",
+			"view_latest_nobids",
+			"view_latest",
+			"Basecam",
+			"get_url",
+			"BaseCampaignTacticAdmin",
+			"view_latest_nobids",
+			"week",
+			"400",
+			"month",
+			"hour",
+			"week",
+			"$",
+			"67",
+			"50",
+			"k",
+			"annua",
+			"month",
+			"annual",
+			"month",
+			"r'\\$\\d*\\b/hr\\b'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/LaTeX.sublime-build",
+	"project": "digitalmarket.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"static/vendors/AdminLTE/js/plugins/flot/jquery.flot.fillbetween.min.js"
+			],
+			[
+				"0001",
+				"central/apps/weather/migrations/0001_initial.py"
+			],
+			[
+				"",
+				"central/apps/weather/admin.py"
+			],
+			[
+				"url",
+				"central/urls.py"
+			],
+			[
+				"admin",
+				"central/apps/campaign/admin.py"
+			],
+			[
+				"bids",
+				"central/apps/dashboard/templates/dashboard/bids.html"
+			],
+			[
+				"dashboard/views",
+				"central/apps/dashboard/views.py"
+			],
+			[
+				"wizards",
+				"central/apps/campaign/wizards.py"
+			],
+			[
+				"0039",
+				"permissions/migrations/0039_auto_20161027_1702.py"
+			],
+			[
+				"forms",
+				"central/apps/audienceserver/forms.py"
+			],
+			[
+				"for",
+				"central/apps/permissions/forms.py"
+			],
+			[
+				"form",
+				"central/apps/dashboard/forms.py"
+			],
+			[
+				"vi",
+				"central/apps/campaign/views.py"
+			],
+			[
+				"currency",
+				"central/apps/directpub/migrations/0004_remove_directpubtag_campaign.py"
+			],
+			[
+				"agency",
+				"central/apps/campaign/migrations/0103_buyer_agency_id.py"
+			],
+			[
+				"migrations/0039",
+				"central/apps/permissions/migrations/0039_auto_20161027_1702.py"
+			],
+			[
+				"migration",
+				"central/apps/campaign/migrations/0056_backend_reinject_placement_name_enabled.py"
+			],
+			[
+				"redis.c",
+				"Library/LaunchAgents/redis-central.plist"
+			],
+			[
+				"perm",
+				"central/apps/permissions/migrations/0003_globalpermission.py"
+			],
+			[
+				"model",
+				"central/apps/permissions/models.py"
+			],
+			[
+				"middle",
+				"central/core/stronghold/middleware.py"
+			],
+			[
+				"base.",
+				"central/settings/base.py"
+			],
+			[
+				"permiss",
+				"central/apps/api/permissions.py"
+			],
+			[
+				"decor",
+				"central/apps/permissions/decorators.py"
+			],
+			[
+				"view_latest_nobids",
+				"central/apps/campaign/templates/admin/campaign/view_latest_nobids.html"
+			],
+			[
+				"views",
+				"central/apps/dashboard/views.py"
+			],
+			[
+				"base",
+				"central/apps/dashboard/templates/dashboard/base_admin.html"
+			],
+			[
+				"view_lates",
+				"central/apps/campaign/templates/admin/campaign/view_latest_nobids_reasons.html"
+			],
+			[
+				"view_latest",
+				"central/apps/campaign/templates/admin/campaign/view_latest_acceptedbids.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 381.0,
+		"last_filter": "params",
+		"selected_items":
+		[
+			[
+				"params",
+				"params"
+			],
+			[
+				"execute",
+				"execute"
+			],
+			[
+				"",
+				"AdPosition"
+			],
+			[
+				"get_",
+				"get_URL"
+			]
+		],
+		"width": 594.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
