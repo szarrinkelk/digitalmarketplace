@@ -24,6 +24,14 @@ DEBUG = True
 
 TEMPLATE_DEBUG = True
 
+TEMPLATES = [
+    {
+        'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        'DIRS': [os.path.join(BASE_DIR), 'templates'],
+        'APP_DIRS': True,
+    },
+]
+
 ALLOWED_HOSTS = []
 
 
@@ -36,6 +44,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'products',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -62,7 +71,16 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': 'digitalmarket',
+#         'USER': 'dmadmin',
+#         'PASSWORD': 'dmadmin123',
+#         'HOST': 'localhost',
+#         'PORT': '',
+#     }
+# }
 # Internationalization
 # https://docs.djangoproject.com/en/1.7/topics/i18n/
 
